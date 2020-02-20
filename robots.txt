@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow: 
+Disallow: /media/*
+Allow: /contact
+Allow: /entertainment
+Allow: /lifestyle
+Allow: /sport
+Allow: /politics
+Allow: /business
+Disallow: /images
+Disallow: /sponsoredads
+Disallow: /css
+
+Sitemap: http://skynewsng.com/sitemap.xml
